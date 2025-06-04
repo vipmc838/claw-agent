@@ -41,25 +41,22 @@
 1. **Application Name（应用程序名称）**  
    随便填写
 
-2. **Image（镜像地址）**  
-   `mc838/claw-agent`
-
-3. **Usage（机器性能配置）**  
+2. **Image（镜像地址）**
+```env
+mc838/claw-agent
+```
+4. **Usage（机器性能配置）**  
    - CPU = 0.1  
    - Memory = 64M
 
-4. **Environment Variables（环境变量）**
-   
+5. **Environment Variables（环境变量）**
+```env
 NZ_SERVER=abc.com:443
-
 NZ_UUID=a6b081a6-689b-47d1-bc72-a4ac78ba2888
-
 NZ_CLIENT_SECRET=4z0HWnSGJ8KFtKOlfJxSk8C3F8PIJ888
-
 NZ_TLS=true
-
 DASHBOARD_VERSION=v1.12.2
-
+```
 
 ---
 
