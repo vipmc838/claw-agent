@@ -45,8 +45,8 @@
    `mc838/claw-agent`
 
 3. **Usage（机器性能配置）**  
-   - CPU = 0.2  
-   - Memory = 128M
+   - CPU = 0.1  
+   - Memory = 64M
 
 4. **Environment Variables（环境变量）**  
 
