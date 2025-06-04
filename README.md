@@ -49,7 +49,7 @@
    - Memory = 64M
 
 4. **Environment Variables（环境变量）**
-5. 
+   
 NZ_SERVER=abc.com:443
 
 NZ_UUID=a6b081a6-689b-47d1-bc72-a4ac78ba2888
