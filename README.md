@@ -48,14 +48,17 @@
    - CPU = 0.1  
    - Memory = 64M
 
-4. **Environment Variables（环境变量）**  
----
+4. **Environment Variables（环境变量）**
 NZ_SERVER=abc.com:443
+
 NZ_UUID=a6b081a6-689b-47d1-bc72-a4ac78ba2888
+
 NZ_CLIENT_SECRET=4z0HWnSGJ8KFtKOlfJxSk8C3F8PIJ888
+
 NZ_TLS=true
+
 DASHBOARD_VERSION=v1.12.2
----
+
 
 ---
 
