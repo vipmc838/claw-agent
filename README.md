@@ -5,7 +5,7 @@
 ![Docker 拉取次数](https://img.shields.io/docker/pulls/mc838/claw-agent)
 ![License](https://img.shields.io/github/license/nezhahq/agent)
 
-这是一个用于部署 [哪吒监控 Agent](https://github.com/nezhahq/agent) 的轻量级 Docker 镜像，支持自动下载、自动配置、自动运行。
+这是一个用于claw.cloud部署 [哪吒监控 Agent](https://github.com/nezhahq/agent) 的轻量级 Docker 镜像，支持自动下载、自动配置、自动运行。
 
 ---
 
