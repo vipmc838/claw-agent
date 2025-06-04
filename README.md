@@ -6,7 +6,11 @@
 ![License](https://img.shields.io/github/license/nezhahq/agent)
 
 这是一个用于claw.cloud部署 [哪吒监控 Agent](https://github.com/vipmc838/claw-agent) 的轻量级 Docker 镜像，支持自动下载、自动配置、自动运行。
-
+---
+## 📦 项目版本说明
+- Hysteria2版本 ➡️[Hysteria2](https://github.com/vipmc838/claw-hy2)：基于 UDP 的高速代理，支持 TLS 加密与伪装。
+- Nezha Agent版本 ➡️[Nezha Agent](https://github.com/vipmc838/claw-agent)：哪吒监控客户端，连接至哪吒面板进行主机监控。
+- 整合版本 ➡️[Claw HY2 Agent](https://github.com/vipmc838/claw-hy2-agent)：Hysteria2 与 Nezha Agent 的集成版，支持一键部署
 ---
 
 ## 🚀 特性
